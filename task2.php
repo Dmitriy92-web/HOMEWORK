@@ -1,5 +1,5 @@
 
-<form style= "display:flex;" action="index.php" method ="post">
+<form style= "display:flex;" action="task2.php" method ="post">
 <p>Значение 1 </p>
    <input type="text" name= "znachenie1">
    <p>Значение 2</p>
